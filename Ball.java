@@ -6,7 +6,7 @@ import java.util.ArrayList;
 
 /** Ball Class
  * @author Adam Drenth
- * @date Nov 13, 2019
+ * @date 
  * @version 1.5
  *
  * Defines the basic ball element that moves around the screen
